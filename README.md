@@ -1,6 +1,11 @@
 # JunHyung CHO, BackEnd Developer
 
 #### 📫 How to reach me 
+<a href="https://velog.io/@amoeba25">
+    <img 
+        src="http://img.shields.io/badge/style=flat&logo=Vector&link=https://velog.io/@amoeba25"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 #### 🌱 I’m currently learning 
 
