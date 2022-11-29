@@ -45,6 +45,12 @@
 <a href="https://github.com/git" style="display: inline">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </a>
+<a href="https://github.com/aws" style="display: inline">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+</a>
+<a href="https://github.com/docker" style="display: inline">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</a>
 
 #### 🛠️ My Tools
 <a href="" style="display: inline">
