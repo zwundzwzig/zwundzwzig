@@ -11,13 +11,13 @@
 #### 📫 How to reach me 
 
 <a href="https://velog.io/@amoeba25" style="display: inline">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor="/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 <a href="mailto:amoeba8282@gmail.com" style="display: inline">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor="/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://instagram.com/6hy25ung" style="display: inline">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor="/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
 #### 🌱 I’m currently learning 
