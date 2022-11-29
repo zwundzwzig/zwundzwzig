@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://blog.naver.com/udemy-wjtb" style="display: inline">
-    <img src="https://img.shields.io/badge/WoongjinThinkbigXUdemy_STATERS-c678dd?style=flat-square&logo=WoongjinThinkbigXUdemy_STATERS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WoongjinThinkbigXUdemy_STATERS-A435F0?style=flat-square&logo=Udemy&logoColor=white"/>
 </a>
 
 #### 📫 How to reach me 
