@@ -1,4 +1,12 @@
 # JunHyung CHO, BackEnd Developer
+#### 🏫 Education
+<a href="https://github.com/wecode-bootcamp-korea" style="display: inline">
+    <img src="https://img.shields.io/badge/>WECODE-000000?style=flat-square&logo=WECODE&logoColor=white"/>
+</a>
+
+<a href="https://blog.naver.com/udemy-wjtb" style="display: inline">
+    <img src="https://img.shields.io/badge/WoongjinThinkbigXUdemy_STATERS-c678dd?style=flat-square&logo=WoongjinThinkbigXUdemy_STATERS&logoColor=white"/>
+</a>
 
 #### 📫 How to reach me 
 
@@ -29,7 +37,7 @@
 </a>
 -->
 <a href="https://github.com/topics/java" style="display: inline">
-    <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat-square&logo=JAVA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=JAVA&logoColor=white"/>
 </a>
 <a href="https://github.com/mysql" style="display: inline">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -47,6 +55,9 @@
 </a>
 <a href="" style="display: inline">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
+<a href="https://github.com/apache/tomcat" style="display: inline">
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 </a>
 
 #### 🔭 My Stats
