@@ -36,9 +36,6 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor="/>
 </a>
 -->
-<a href="https://github.com/topics/java" style="display: inline">
-    <img src="https://t1.daumcdn.net/cfile/tistory/99C3C24F5AD83BFA1C" width="21px" />
-</a>
 <a href="https://github.com/mysql" style="display: inline">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </a>
@@ -50,6 +47,9 @@
 </a>
 <a href="https://github.com/docker" style="display: inline">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</a>
+<a href="https://github.com/topics/java" style="display: inline">
+    <img src="https://t1.daumcdn.net/cfile/tistory/99C3C24F5AD83BFA1C" width="21px" />
 </a>
 
 #### 🛠️ My Tools
