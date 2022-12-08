@@ -37,7 +37,7 @@
 </a>
 -->
 <a href="https://github.com/topics/java" style="display: inline">
-    <img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=JAVA&logoColor=white"/>
+    <img src="https://t1.daumcdn.net/cfile/tistory/99C3C24F5AD83BFA1C" width="21px" />
 </a>
 <a href="https://github.com/mysql" style="display: inline">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
