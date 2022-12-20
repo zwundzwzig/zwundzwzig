@@ -20,37 +20,50 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
-#### 🌱 I’m currently learning 
+#### 🌱 I have experience with
+##### Language & Runtime & Framework
 
 <a href="https://github.com/topics/javascript" style="display: inline">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </a>
+<!-- <a href="https://github.com/microsoft/TypeScript" style="display: inline">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</a> -->
 <a href="https://github.com/nodejs" style="display: inline">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </a>
 <a href="https://github.com/expressjs" style="display: inline">
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor="/>
 </a>
-<!--
-<a href="https://github.com/microsoft/TypeScript" style="display: inline">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor="/>
+<!-- <a href="https://github.com/nestjs" style="display: inline">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+</a> -->
+<a href="https://github.com/topics/java" style="display: inline">
+    <img src="https://t1.daumcdn.net/cfile/tistory/99C3C24F5AD83BFA1C" width="21px" />
 </a>
--->
+<!-- <a href="https://github.com/spring-projects" style="display: inline">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+</a>
+<a href="https://github.com/spring-projects" style="display: inline">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
+</a> -->
+
+##### Database & Infrastructure
 <a href="https://github.com/mysql" style="display: inline">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </a>
+<!-- <a href="https://github.com/mariadb" style="display: inline">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+</a> -->
 <a href="https://github.com/git" style="display: inline">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </a>
 <a href="https://github.com/aws" style="display: inline">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </a>
-<a href="https://github.com/docker" style="display: inline">
+<!-- <a href="https://github.com/docker" style="display: inline">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</a>
-<a href="https://github.com/topics/java" style="display: inline">
-    <img src="https://t1.daumcdn.net/cfile/tistory/99C3C24F5AD83BFA1C" width="21px" />
-</a>
+</a> -->
 
 #### 🛠️ My Tools
 <a href="" style="display: inline">
@@ -62,9 +75,9 @@
 <a href="" style="display: inline">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
-<a href="https://github.com/apache/tomcat" style="display: inline">
+<!-- <a href="https://github.com/apache/tomcat" style="display: inline">
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
-</a>
+</a> -->
 
 #### 🔭 My Stats
 
