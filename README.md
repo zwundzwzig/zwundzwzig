@@ -63,6 +63,9 @@
 <a href="https://github.com/aws" style="display: inline">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
 </a>
+<a href="https://github.com/apache/tomcat" style="display: inline">
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
+</a>
 <!-- <a href="https://github.com/docker" style="display: inline">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </a> -->
@@ -77,9 +80,6 @@
 <a href="" style="display: inline">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 </a>
-<!-- <a href="https://github.com/apache/tomcat" style="display: inline">
-    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
-</a> -->
 
 #### 🔭 My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
