@@ -16,9 +16,9 @@
 <a href="mailto:amoeba8282@gmail.com" style="display: inline">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/6hy25ung" style="display: inline">
+<!-- <a href="https://instagram.com/6hy25ung" style="display: inline">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
-</a>
+</a> -->
 
 #### 🌱 I have experience with
 ##### Language & Runtime & Framework
