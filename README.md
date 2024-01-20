@@ -22,7 +22,7 @@
     <img src="https://t1.daumcdn.net/cfile/tistory/99C3C24F5AD83BFA1C" width="21px" />
 </a>
 <a href="https://github.com/gradle" style="display: inline">
-    <img src="https://img.shields.io/badge/gradle-gray?logo=gradle" />
+    <img src="https://img.shields.io/badge/gradle-02303A?logo=gradle" />
 </a>
 <a href="https://github.com/topics/javascript" style="display: inline">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white" />
 </a>
 <a href="" style="display: inline">
-    <img src="https://img.shields.io/badge/junit-white?logo=junit5" />
+    <img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white" />
 </a>
 <a href="https://github.com/spring-projects/spring-security" style="display: inline">
     <img src="https://img.shields.io/badge/Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" />
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
 </a>
 <a href="https://github.com/hibernate" style="display: inline">
-    <img src="https://img.shields.io/badge/hibernate-badge?logo=hibernate" />
+    <img src="https://img.shields.io/badge/hibernate-59666C?logo=hibernate" />
 </a>
 <a href="https://github.com/redis" style="display: inline">
     <img src="https://img.shields.io/badge/redis-red?style=flat-square&logo=redis&logoColor=white" />
@@ -61,16 +61,19 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </a>
 <a href="https://github.com/aws" style="display: inline">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS" />
 </a>
 <a href="https://github.com/aws" style="display: inline">
-    <img src="https://img.shields.io/badge/Amazon Linux-232F3E?style=flat-square&logo=Amazon EC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=Amazon RDS" />
 </a>
 <a href="https://github.com/aws" style="display: inline">
-    <img src="https://img.shields.io/badge/Amazon S3-232F3E?style=flat-square&logo=Amazon S3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon Linux-232F3E?style=flat-square&logo=Amazon EC2" />
+</a>
+<a href="https://github.com/aws" style="display: inline">
+    <img src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=Amazon S3" />
 </a>
 <a href="https://github.com/nginx" style="display: inline">
-    <img src="https://img.shields.io/badge/nginx-green?style=flat-square&logo=Nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/NGINX-green?style=flat-square&logo=Nginx&logoColor=white" />
 </a>
 <a href="https://github.com/docker" style="display: inline">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
