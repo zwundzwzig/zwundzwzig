@@ -21,12 +21,18 @@
 <a href="https://github.com/topics/java" style="display: inline">
     <img src="https://t1.daumcdn.net/cfile/tistory/99C3C24F5AD83BFA1C" width="21px" />
 </a>
+<a href="https://github.com/gradle" style="display: inline">
+    <img src="https://img.shields.io/badge/gradle-gray?logo=gradle" />
+</a>
 <a href="https://github.com/topics/javascript" style="display: inline">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 </a>
 <br /><br />
 <a href="https://github.com/spring-projects" style="display: inline">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
+</a>
+<a href="https://github.com/spring-projects" style="display: inline">
+    <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 </a>
 <a href="https://github.com/spring-projects/spring-data-jpa" style="display: inline">
     <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white" />
@@ -66,11 +72,11 @@
 <a href="https://github.com/nginx" style="display: inline">
     <img src="https://img.shields.io/badge/nginx-green?style=flat-square&logo=Nginx&logoColor=white" />
 </a>
+<a href="https://github.com/docker" style="display: inline">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</a>
 <!-- <a href="https://github.com/apache/tomcat" style="display: inline">
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
-</a> -->
-<!-- <a href="https://github.com/docker" style="display: inline">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </a> -->
 <br /><br />
 <a href="" style="display: inline">
