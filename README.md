@@ -102,7 +102,7 @@
     <img src ="https://github-readme-stats.vercel.app/api?username=zwundzwzig&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zwundzwzig&layout=compact&theme=dark&show_icons=true" />
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zwundzwzig&layout=compact&theme=dark&show_icons=true" width=356px />
 </a>
 </a>
 
