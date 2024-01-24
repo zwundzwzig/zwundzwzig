@@ -1,4 +1,9 @@
 # JunHyung CHO, BackEnd Developer
+
+<a href="https://zwundzwzig.notion.site/cf17f20349cd42ca929f1b33a0e6f44a" style="display: inline">
+    <img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white" width=200 />
+</a>
+
 <!-- 
 #### 🏫 Education
 <a href="https://github.com/wecode-bootcamp-korea" style="display: inline">
@@ -90,9 +95,6 @@
 </a>
 <a href="" style="display: inline">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
-</a>
-<a href="" style="display: inline">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 </a>
 <a href="">
     <img src ="https://img.shields.io/badge/intelij-purple" />
