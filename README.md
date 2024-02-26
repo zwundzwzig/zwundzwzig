@@ -1,7 +1,7 @@
 # JunHyung CHO, BackEnd Developer
 
 <a href="https://zwundzwzig.notion.site/cf17f20349cd42ca929f1b33a0e6f44a" style="display: inline">
-    <img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white" width=200 />
+<!--     <img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=Notion&logoColor=white" width=200 /> -->
 </a>
 
 <!-- 
