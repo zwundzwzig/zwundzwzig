@@ -48,10 +48,13 @@
 <a href="https://github.com/spring-projects/spring-security" style="display: inline">
     <img src="https://img.shields.io/badge/Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" />
 </a>
+<a href="https://github.com/lit" style="display: inline">
+    <img src="https://img.shields.io/badge/Lit-gray?style=flat-square&logo=Lit&logoColor=white" />
+</a>
 <br /><br />
-<!-- <a href="https://github.com/mysql" style="display: inline">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-</a> -->
+<a href="https://github.com/oracle" style="display: inline">
+    <img src="https://img.shields.io/badge/oracle-4479A1?style=flat-square&logo=oracle&logoColor=white" />
+</a>
 <a href="https://github.com/mariadb" style="display: inline">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
 </a>
